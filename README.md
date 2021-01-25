@@ -18,16 +18,16 @@ This is the third version of the On-Screen Keyboard in AutoHotkey's official Scr
 
 Version 3:
 
-* /u/anonymous1184 used invisible characters (to differentiate Numpad numbers from their counterparts) and labels (to eliminate version 2's lists of manual character entries).
-* /u/KeronCyst added all buttons to the right of Backspace, added a Ctrl-` visibility toggle, cleaned up code descriptions, and made the keyboard click-through/non-interactive by default.
+* [/u/anonymous1184](https://www.reddit.com/user/anonymous1184) used invisible characters (to differentiate Numpad numbers from their counterparts) and labels (to eliminate version 2's lists of manual character entries).
+* [/u/KeronCyst](https://www.reddit.com/user/KeronCyst) added all buttons to the right of Backspace, added a Ctrl-` visibility toggle, cleaned up code descriptions, and made the keyboard click-through/non-interactive by default.
 * Both redditors made aesthetic improvements (symbols + name changes) and fixed various flashing problems.
 
-Version by Lehnemann added color-flashing via progress bars:
+Version 2 by Lehnemann added color-flashing via progress bars:
 https://autohotkey.com/board/topic/94703-another-approach-to-a-virtual-keyboard/
 
 The original by Jon: https://www.autohotkey.com/docs/scripts/index.htm
 
-Press Ctrl-` or double-click (or right-click) the tray icon to toggle visibility of the keyboard.
+Press `Ctrl-`\` or double-click (or right-click) the tray icon to toggle visibility of the keyboard.
 
 Run a search for and delete the following to make the keyboard:  
 
